@@ -22,7 +22,7 @@ form {
     min-height: 20vh;
     display: flex;
     justify-content: center;
-    align-items:center;
+    align-items: center;
     gap: 1.5rem;
 }
 
@@ -77,7 +77,7 @@ form button {
 }
 
 .todo li {
-    flex:1;
+    flex: 1;
 }
 
 .trash-btn,
